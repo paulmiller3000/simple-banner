@@ -5,6 +5,7 @@ This React app includes a component to display a banner when your app is running
 ## Getting Started
 
 * Clone this repository
+* Run `npm install`
 * Run `npm start`
 
 This will display the following banner:
